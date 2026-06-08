@@ -1,0 +1,8 @@
+{
+  "name": "Remix: RunMusicStoreDj",
+  "description": "A marketplace for DJs to upload, browse, listen, and manage audio tracks and DJ packs with persistent storage and a built-in player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
